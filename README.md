@@ -1,4 +1,4 @@
-# Hi! My name is Klaudia👋
+## Hi! My name is Klaudia👋
 
 ---
 I am a final year student of __Economic Data Analytics__. I am characterized by a proactive approach and determination to develop in the field of data analysis and visualization. 
